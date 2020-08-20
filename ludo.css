@@ -1,0 +1,72 @@
+		.header{
+			/* border-color: red; */
+			/* border-style : solid; */
+			/* height: 670px; */
+			width: 1000px;
+			/* float: left; */
+		}
+        .pawns{                    /*'.' represents the class */
+            width:30px;
+            height:30px;
+            border-radius:20px;
+            position:absolute;
+        }
+		#dice{
+			/* border-style: solid; */
+			background-repeat: no-repeat;
+			background-size:contain; 
+			width:150px;
+			height:150px; 
+			float: left;
+		}
+        #board{
+            background:url(Images/board.gif) no-repeat;
+            background-size:cover;
+            width:655px;
+            height:650px;
+            /* float:left ; */
+            margin-top:20px;
+
+			/* border-style: solid; */
+        }
+		h4{
+			/* border-style: solid; */
+		}
+		#player{
+			color:green;
+			border-style: solid;
+			float: left;
+		}
+		#uselesstext1{
+			/* border-style: solid; */
+			float: left;
+		}
+        #uselesstext2{
+            /* padding-left:10px; */
+            /* padding-right:10px; */
+			width: 150px;
+			/* border-style: solid; */
+			float: left;
+        }
+		#badtext{
+
+			/* border-style: solid; */
+		}
+		@media(max-width:800px) {
+			body{
+				background-color: #e6e6ff;
+				height: 900px;
+			}
+			#dice{
+				height: 200px;
+				width: 200px;
+			}
+
+		}
+        .footer{
+            font-size:larger;
+            color:darkred;
+			/* border-style: solid; */
+			float: left;
+
+        }
