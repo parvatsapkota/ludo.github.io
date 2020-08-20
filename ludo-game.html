@@ -1,42 +1,13 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title></title>
-    <style>
-        #main{
-            width:1000px;
-			<--!height:1000px-->
-            float:left;
-        }
-        .pawns{
-            width:30px;
-            height:30px;
-            border-radius:20px;
-            position:absolute;
-        }
-        #board{
-            background:url(Images/board.gif) no-repeat;
-            background-size:cover;
-            width:655px;
-            height:650px;
-            float:left ;
-            margin-top:0px;
-        }
-        #uselesstext1{
-            float:left;
-            padding-left:10px;
-            padding-right:10px;
-        }
-        footer{
-            font-size:larger;
-            color:darkred;
-
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="ludo.css">
     <script src="Ludo-game.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div id="main">
+	<div class = "header">
     <div id="board"></div>
 <!--<button type="button" onclick="stepLeft()">Left</button>
     <button type="button" onclick="stepRight()">Right</button>
@@ -47,7 +18,7 @@
     <button type="button" id="blue">Blue</button>
     <button type="button"  id="yellow">Yellow</button>-->
 
-    <div id="dice" onclick="randomNum()" style="background-image:url(Images/dice.gif);background-size:contain; width:150px;height:150px; float:left;"></div>
+    
     <!-- red pawns  start top 28 left 318-->
     <div class="pawns" id="redpawn1"    onclick="randomMove('red',1)"       style="background-color:red;top:171px;left:472px;"></div><!--171,472-->
     <div class="pawns" id="redpawn2"    onclick="randomMove('red',2)"       style="background-color:red;top:171px;left:545px;"></div>
@@ -73,18 +44,16 @@
     <div class="pawns" id="bluepawn4"   onclick="randomMove('blue',4)"      style="background-color:blue;top:565px;left:545px;"></div>
 
 
-    <h4 id="uselesstext1">It`s </h4><h3 id="player" style="float:left; color:green">green</h3><h4 id="uselesstext2">s turn</h4>
-    <p id="badtext" style="float:left;"></p>
-    </div>
     
-<!-- The core Firebase JS SDK is always required and must be listed first -->
-<script src="/__/firebase/7.18.0/firebase-app.js"></script>
+    
+	</div>
+	
+	<h4 id="uselesstext1">It`s </h4><h3 id="player">red</h3><h4 id="uselesstext2">s turn</h4>
+	<div id="dice" onclick="randomNum()" style="background-image:url(Images/dice.gif)"></div>
+    <p id="badtext"></p>
+	<div class="footer">
+		<p>Good luck y'all!<p>
+	</div>
 
-<!-- TODO: Add SDKs for Firebase products that you want to use
-     https://firebase.google.com/docs/web/setup#available-libraries -->
-<script src="/__/firebase/7.18.0/firebase-analytics.js"></script>
-
-<!-- Initialize Firebase -->
-<script src="/__/firebase/init.js"></script>
 </body>
 </html>
