@@ -23,8 +23,8 @@ function HaveHover() {
 			var leftArray = ["366.9px","279.5px","585.4px","61px","279.5px","366.9px","541.7px","104.7px"];
 			var strTop = String(secondPawn.style.top);
 			var strLeft = String(secondPawn.style.left);
-			check = topArray.includes(strTop) && leftArray.includes(strLeft);
-			
+			var check = topArray.includes(strTop) && leftArray.includes(strLeft);
+			// window.alert(!check)
 			if(!check){
 				if (firstPawn.style.top==secondPawn.style.top&&firstPawn.style.left==secondPawn.style.left&&currcolor!=allcolor[i]&&currPos+num<56) {
                 count++;
