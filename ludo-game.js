@@ -1,4 +1,4 @@
-﻿var currPos = 0;
+var currPos = 0;
 var stepu = 43.3;
 var stepl = 43.7
 var currcolor = "";
