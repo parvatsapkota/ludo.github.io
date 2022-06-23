@@ -1,4 +1,4 @@
 # ludo
 
 
-![My Image](parvatsapkota/ludo.github.io/Images/youtubecapture.PNG)
+![My Image](parvatsapkota/ludo.github.io/Images/1.jpg)
