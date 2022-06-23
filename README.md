@@ -1,4 +1,4 @@
 # ludo
 
 
-![alt text](https://github.com/parvatsapkota/ludo.github.io/Images/youtubecapture.PNG)
+![alt text](https://github.com/parvatsapkota/ludo.github.io/Images/youtubecapture.png)
