@@ -10,7 +10,7 @@ b) Implemented highlighting when it was player's turn.<br>
 
 Previously it looked like this:
 ![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/previous_version.JPG)
-
+<br>
 Now,it looks like this:
 ![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/myversion.PNG)
 
