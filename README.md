@@ -9,7 +9,7 @@ a) Changed the board of the ludo game.<br>
 b) Implemented highlighting when it was player's turn.<br> 
 
 Previously it looked like this:
-![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/previous version.JPG)
+![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/previous_version.JPG)
 
 Now,it looks like this:
 ![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/myversion.PNG)
