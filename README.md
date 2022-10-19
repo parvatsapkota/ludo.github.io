@@ -17,7 +17,7 @@ Now,it looks like this:
 ![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/myversion.PNG)
 
 Here, is how the deployed game looks like in phone browser.
-![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/mobile_version.PNG)
+![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/mobile_version.jpg)
 
 
 
