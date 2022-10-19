@@ -8,7 +8,7 @@ a) Changed the board of the ludo game.<br>
 
 b) Implemented highlighting when it was player's turn.<br> 
 
-c)I then deployed the game using Netlify.<br>
+c) I then deployed the game using Netlify.<br>
 
 Previously it looked like this:
 ![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/previous_version.JPG)
