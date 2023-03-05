@@ -17,7 +17,7 @@ c) Deployed the game using Netlify.<br>
 ![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/previous_version.JPG)
 <br>
 ## My version(in desktop)
-![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/myversion.PNG)
+![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/ludo-game.JPG)
 
 <!-- ## My version( in mobile)
 ![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/mobile_version.jpg) -->
