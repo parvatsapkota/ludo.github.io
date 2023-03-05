@@ -7,7 +7,7 @@ Check it out [here](https://ludokhelam.netlify.app/)
 I used code from [here](https://code-projects.org/simple-ludo-game-in-javascript-with-source-code/), and modified it to fit my purpose.<br>
 
 ## My contributions:<br>
-a) Changed the board of the ludo game.<br>
+a) Modified the logic on some part of the ludo game.<br>
 
 b) Implemented highlighting when it was player's turn.<br> 
 
