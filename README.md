@@ -1,7 +1,10 @@
 # Ludo
 
-I am not the original creator of it as I used code from here:https://code-projects.org/simple-ludo-game-in-javascript-with-source-code/<br>
-However, I modified it to fit my purpose.<br>
+## Try it out!
+Check it out [here](https://ludokhelam.netlify.app/)
+
+## Description
+I used code from [here](https://code-projects.org/simple-ludo-game-in-javascript-with-source-code/), and modified it to fit my purpose.<br>
 
 ## My contributions:<br>
 a) Changed the board of the ludo game.<br>
@@ -16,11 +19,10 @@ c) Deployed the game using Netlify.<br>
 ## My version(in desktop)
 ![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/myversion.PNG)
 
-## My version( in mobile)
-![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/mobile_version.jpg)
+<!-- ## My version( in mobile)
+![My Image](https://github.com/parvatsapkota/ludo.github.io/blob/master/Images/mobile_version.jpg) -->
 
-## Try it out!
-Check it out [here](https://ludokhelam.netlify.app/)
+
 
 
 
